@@ -26,9 +26,12 @@
 * Se tudo ocorrer bem basta copiar um dos links fornecidos ao executar e colar na URL de qualquer navegador
 * Para fechar basta apertar as teclas CTRL + C
 
-## Problemas ao executar
+## Problemas ao executar :x:
 * Caso ./ngrok http 8080 não retornar nada
 * Tente, trocando o 8080 pela sua porta:
 ```
 ./ngrok http 8080 -host-header="localhost:8080"
 ```
+
+| [<img src="https://avatars2.githubusercontent.com/u/61600036?s=150&u=3ac690ed826fc73ec79c08d70e8c77e0efdc5d5b&v=4"><br><sub>@pedrorivald</sub>](https://github.com/pedrorivald) |
+| :---: |
